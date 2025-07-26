@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main() {
+    int a = 10, b = 20;
+    if (a > b)
+        printf("Max = %d\n", a);
+    else
+        printf("Max = %d\n", b);
+    return 0;
+}
