@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    int a = 10, b = 20;
+    int a ,b;
+    printf("Enter the two numbers");
+    scanf("%d%d",&a,&b);
     if (a > b)
         printf("Max = %d\n", a);
     else
