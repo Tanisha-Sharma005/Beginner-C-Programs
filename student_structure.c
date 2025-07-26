@@ -1,11 +1,13 @@
-#include<stdio.h>
+   #include<stdio.h>
+
     struct student{
     char name;
     int marks;
     float cgp;
     char course;
-}s1,s2,s3;
-int main(){
+   }s1,s2,s3;
+
+   int main(){
 
     printf("Enter s1 data\n");
     scanf("%s",&s1.name);
