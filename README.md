@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Tanisha-Sharma005/Beginner-C-Programs/blob/main/assets/banner.png" alt="Beginner C Programs Banner" width="800"/>
-</p>
-
 # 🌟 Beginner C Programs  
 
 ![Language](https://img.shields.io/badge/language-C-blue.svg)  
