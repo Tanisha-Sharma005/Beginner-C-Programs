@@ -12,11 +12,6 @@ This repository is designed to help students and learners practice and strengthe
 ## 📑 Table of Contents  
 - [Folder Structure](#-folder-structure)  
 - [How to Run](#-how-to-run)  
-- [Requirements](#-requirements)  
-- [Purpose](#-purpose)  
-- [Contributing](#-contributing)  
-- [Author](#-author)  
-
 ---
 
 ## 📂 Folder Structure  
